@@ -1,4 +1,4 @@
-# Samenvatting
+# Markdown testen
 
 *This text will be italic*
 _This will also be italic_
@@ -12,4 +12,5 @@ https://github.com/KilianB95/les04/commits/master - automatic!
 
 . When you rust in the shower because you're so metal
 
+![metalhorn](/bureaublad/metalhorn.png)
 
