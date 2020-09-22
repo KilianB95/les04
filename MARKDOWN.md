@@ -12,6 +12,6 @@ https://github.com/KilianB95/les04/commits/master - automatic!
 
 . When you rust in the shower because you're so metal
 
-![metalhorn](/bureaublad/metalhorn.JPG "metalhorn")
+![metalhorn](/bureaublad/metalhorn.jpg "metalhorn")
 
 
